@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/melon-cra/static/css/main.bf5a680d.css",
+    "main.js": "/melon-cra/static/js/main.a4e9c178.js",
+    "static/js/367.b6d57285.chunk.js": "/melon-cra/static/js/367.b6d57285.chunk.js",
+    "index.html": "/melon-cra/index.html",
+    "main.bf5a680d.css.map": "/melon-cra/static/css/main.bf5a680d.css.map",
+    "main.a4e9c178.js.map": "/melon-cra/static/js/main.a4e9c178.js.map",
+    "367.b6d57285.chunk.js.map": "/melon-cra/static/js/367.b6d57285.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf5a680d.css",
+    "static/js/main.a4e9c178.js"
+  ]
+}
